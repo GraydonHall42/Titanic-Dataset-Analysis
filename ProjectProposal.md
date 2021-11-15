@@ -33,7 +33,10 @@ I'm going to take famous titanic dataset from this kaggle competition. I will ex
     - Determine the importance of each feature
 
 ## 3. What: Dataset, models, framework, components 2pts
-    -Dataset: Titanic Dataset
-    -Models: `LogisticRegression()`, `SVC()`, `BernoulliNB()`, `RandomForestClassifier()`, `GradientBoostingClassifier()`, `CatBoost`, `XGBoost`
-    -Frameworks: sklearn, xgboost, catboost, pandas, seaborn, matplotlib, 
-    -Components: ?
+- Dataset: Titanic Dataset
+- Models: `LogisticRegression()`, `SVC()`, `BernoulliNB()`, `RandomForestClassifier()`, `GradientBoostingClassifier()`, `CatBoost`, `XGBoost`
+- Frameworks: sklearn, xgboost, catboost, pandas, seaborn, matplotlib
+- Components: Not applicable here. 
+
+### Aside:
+I'm actully more or less done my final project so if you'd be able to take a peek at that workbook. Thanks!
