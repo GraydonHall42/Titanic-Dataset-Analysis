@@ -1,4 +1,5 @@
 # Titanic Dataset Investigation
+The full jupyter notebook can be found in the file [GH_final_project.ipynb](GH_final_project.ipynb)
 
 ## Question/Topics being investigated
 As my final project for ENSF 611 - Machine Learning for Software Engineers, I'm going to analyze the famous titanic dataset from [this kaggle competition](https://www.kaggle.com/c/titanic). I will explore the following 4 questions:
@@ -6,7 +7,6 @@ As my final project for ENSF 611 - Machine Learning for Software Engineers, I'm 
 2. Investigating the use of PCA to try and visualize
 3. Which featuers are most predictive in this model, and which can be ignored?
 4. What is the best strategy for handling the 177 null values which show up in the age column
-The full project can be found in the file [GH_final_project.ipynb](GH_final_project.ipynb)
 
 
 ## Summary of Questions Answered/Topics Investigated
