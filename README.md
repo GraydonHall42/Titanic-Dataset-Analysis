@@ -1,5 +1,4 @@
 # Titanic Dataset Investigation
-*By Graydon Hall*
 
 ## Question/Topics being investigated
 As my final project for ENSF 611 - Machine Learning for Software Engineers, I'm going to analyze the famous titanic dataset from [this kaggle competition](https://www.kaggle.com/c/titanic). I will explore the following 4 questions:
